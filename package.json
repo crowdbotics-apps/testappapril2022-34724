@@ -17,6 +17,7 @@
     "@modules/camera": "file:./modules/camera",
     "@modules/chat": "file:./modules/chat/",
     "@modules/login": "file:./modules/login/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/payments": "file:./modules/payments",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
